@@ -94,7 +94,7 @@ This structure is designed to be compact, fast to parse, and easily extendable i
 🧱 Project status
 
 This is the translated version of the program.
-It is not yet designed for integration into other systems and has no JAR build at this stage.
+It is not yet designed for integration into other systems at this stage.
 A future release will include packaging, library functions, and CLI argument support.
 
 
